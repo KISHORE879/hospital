@@ -1,0 +1,17 @@
+[
+    {"name":"sagar","speciality":"ortho","experience":5,"gender":"male"},
+    {"name":"ramarao","speciality":"children","experience":3,"gender":"male"},
+    {"name":"sasi","speciality":"dermo","experience":15,"gender":"male"},
+    {"name":"bharath","speciality":"heart","experience":6,"gender":"male"},
+    {"name":"srinu","speciality":"brain","experience":4,"gender":"male"},
+    {"name":"manasa","speciality":"sugar","experience":12,"gender":"female"},
+    {"name":"ganesh","speciality":"dermo","experience":30,"gender":"male"},
+    {"name":"anju","speciality":"children","experience":25,"gender":"female"},
+    {"name":"devi","speciality":"women","experience":3,"gender":"female"},
+    {"name":"madhav","speciality":"ortho","experience":5,"gender":"male"},
+    {"name":"ranjath","speciality":"E.N.T","experience":15,"gender":"male"},
+    {"name":"prasad","speciality":"Eye","experience":29,"gender":"male"}
+
+
+
+]

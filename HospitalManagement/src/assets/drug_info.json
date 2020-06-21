@@ -1,0 +1,18 @@
+[
+    {
+    "name": "Mesalazine",
+    "description": "An anti-inflammatory agent, structurally related to the salicylates, which is active in inflammatory bowel disease. It is considered to be the active moiety of sulphasalazine. (From Martindale, The Extra Pharmacopoeia, 30th ed)",
+    "cas_number": "89-57-6",
+    "drug_type": "small_molecule",
+    "food_interactions":"Take without regard to meals."
+    
+    },
+    {
+    "name": "Parasetmal",
+    "description": "An anti-inflammatory agent, structurally related to the salicylates, which is active in inflammatory bowel disease. It is considered to be the active moiety of sulphasalazine. (From Martindale, The Extra Pharmacopoeia, 30th ed)",
+    "cas_number": "89-57-9",
+    "drug_type": "high_molecule",
+    "food_interactions":"Take with regard to meals."
+    }
+    
+]

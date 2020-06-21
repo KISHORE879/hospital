@@ -1,0 +1,20 @@
+<!-- <div>{{drugData |json}}</div> -->
+<table border="5px solid green">
+<tr>
+<th>name</th>
+<th>description</th>
+<th>cas_number</th>
+<th>drug_type</th>
+<th>food_interactions</th>
+</tr>
+<tr *ngFor="let data of drugData">
+
+ <td>{{data.name}}</td>
+ <td>{{data.description}}
+ <td>{{data.cas_number}}</td>
+ <td>{{data.drug_type}}</td>
+ <td>{{data.food_interactions}}</td>
+
+
+</tr>
+</table>

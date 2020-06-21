@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="panel panel-success">
+        <div class="panel-heading">User Login</div>
+        <div class="panel-body">
+            <form #userForm='ngForm' (ngonSubmit)="submitForm(userForm.value)">
+             <label>UserName</label>  
+             <input type="text" name="uname" ngModel #uname='ngModel' class="form-control" required pattern=[a-zA-Z]+>
+             <label>Password</label>  
+             <input type="password" name="pwd" ngModel #pwd='ngModel' class="form-control" required pattern=[a-zA-Z0-9]+>
+            <button type="button" [disabled]="userForm.form.invalid" type="submit" class="btn btn-success">submit</button>
+            </form>
+        </div>
+    </div>
+</div>

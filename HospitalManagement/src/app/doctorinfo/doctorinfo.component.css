@@ -1,0 +1,12 @@
+table{
+    background-color: aqua;
+    border: 5px solid lightgreen;
+    text-align: center;
+
+}
+
+td, th {
+     border: 2px dotted lightcyan 
+     
+     
+    }
